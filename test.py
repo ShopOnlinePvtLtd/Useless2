@@ -6,4 +6,13 @@ password = "AbhiPass@321"
 def send(user, pass):
     send_email(user,pass)
 
+
+pass_sec = "abhiAbhiABhi310a##"
+
+pass_sec2 = "abhiiABhi310a##@@"
+
+pass_sec3 = "abhiiA$#$#123" # BluBracketIgnore
+
+pass_sec4 = "abhiiA$#$#123Sec" # BluBracketIgnore
+
 send(user, password)
