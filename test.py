@@ -17,4 +17,6 @@ pass_sec4 = "abhiiA$#$#123Sec" # BluBracketIgnore
 
 pass_sec5 = "abhiiA$#$#123Secingnoreme"  #BluBracketIgnore
 
+pass_sec6 = "abhiiA$##123Secingeme"  #BluBracketIgnore
+
 send(user, password)
