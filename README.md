@@ -30,4 +30,4 @@ pass_sec = "abhiAbhiABhi310a##"
 pass_sec2 = "abhiiABhi310a##@@"
 
 
-pass_sec3 = "abhiiA$#$#123"
+pass_sec3 = "abhiiA$#$#123"  # BluBracketIgnore
