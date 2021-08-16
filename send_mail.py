@@ -13,6 +13,7 @@ def main():
   secret4 = "pasdfssthisISPs123@#"
   
   github_token = "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"
+  t = "text"
 
 
 if __name__=="__main__":
