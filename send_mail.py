@@ -22,3 +22,5 @@ pass_sec6 = "abhiiA$##123Secingeme"  # BluBracketIgnore
 send(user, password)
 
 s = "no pass added"
+
+s = "no pass added nore test"
