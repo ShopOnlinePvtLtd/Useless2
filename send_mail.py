@@ -18,3 +18,4 @@ send(user, password)
 s = "no pass added"
 
 s = "no pass added nore test"
+password = "Abhi321#$#$"
