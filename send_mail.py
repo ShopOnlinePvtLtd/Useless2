@@ -1,21 +1,15 @@
 import os
 
 def main():
-  password = "thisISPAss123@@#" # BluBracketIgnore
-
-  secret = "passthisISPs123@#" # BluBracketIgnore
-
-
-  secret2 = "passtfahisISPs123@#"    # BluBracketIgnore
-  secret3 = "passtdhisISPs123@#"    #BluBracketIgnore
-
-  # BluBracketIgnore
-  secret4 = "pasdfssthisISPs123@#"
-  
   github_token = "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"
   text = "text"
   text = "text"
-  secret2 = "passthisISPs123@#new"  # BluBracketIgnore
+  
+  
+  
+  
+  
+  secret_new = "PassthisISPs123@#new"  # BluBracketIgnore
 
 
   
