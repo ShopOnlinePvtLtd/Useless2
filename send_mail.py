@@ -4,13 +4,7 @@ def main():
   github_token = "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"
   text = "text"
   text = "text"
-  
-  
-  
-  
-  
-  secret_new = "PassthisISPs123@#new"  # BluBracketIgnore
-
+  secret_new = "PassthisISPs123@#new"
 
   
 if __name__=="__main__":
