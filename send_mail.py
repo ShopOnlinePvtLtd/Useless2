@@ -11,6 +11,8 @@ def something():
   password = "AbBaH123EER%123fdrgS" # BluBracketIgnore
   
   user_token = "89fa5491-2c97-438c-a3f8-4c0a9a616b20"
+  
+  password = "sdfhjrtd45$$9fdkk$" # BluBracketIgnore
 
   
 if __name__=="__main__":
