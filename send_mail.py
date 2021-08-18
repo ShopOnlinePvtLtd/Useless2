@@ -5,6 +5,10 @@ def main():
   text = "text"
   text = "text"
   password = "PassthisISPs123@#new"  # BluBracketIgnore
+  
+def something():
+  secret = "ANew123#$pass"
+  password = "AbBaH123EER%123fdrgS" # BluBracketIgnore
 
   
 if __name__=="__main__":
