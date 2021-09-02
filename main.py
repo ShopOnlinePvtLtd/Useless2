@@ -7,3 +7,10 @@ print('hello there')
 
 print("i am karthik")
 print("removed scret")
+
+
+print("i am karthik")
+
+
+
+secret = "jkG%j&*j8JhjfdhFGDr"
