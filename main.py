@@ -5,5 +5,5 @@ print('hi')
 
 print('hello there')
 
-print("i am karthik")
+print("i am")
 print("removed scret")
