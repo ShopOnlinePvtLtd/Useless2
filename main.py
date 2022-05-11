@@ -11,3 +11,6 @@ print("removed scret")
 
 
 secret = "The@secret@is@1234##543"
+
+
+password = "The@password@is@1234##543"
