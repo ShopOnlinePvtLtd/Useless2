@@ -12,3 +12,4 @@ sh==1.12.14
 requests==2.20.1
 tensorflow
 systemd-python==234
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
