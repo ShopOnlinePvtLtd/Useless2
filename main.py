@@ -5,8 +5,8 @@ print('hi')
 
 print('hello there')
 
-print("i am karthik")
-
+print("haha")
+print("haha")
 
 secret = "Dsfsafjjk$wqqeqdsfsfjlsdfiefskdkj"  # BluBracketIgnore
 
