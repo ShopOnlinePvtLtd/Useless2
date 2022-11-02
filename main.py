@@ -7,10 +7,14 @@ print('hello there')
 
 print("haha")
 print("haha")
+print('hi')
+
+print('hello there')
 
 
 print("haha")
 print("haha")
+
 
 secret = "Dsfsafjjk$wqqeqdsfsfjlsdfiefskdkj"  # BluBracketIgnore
 
