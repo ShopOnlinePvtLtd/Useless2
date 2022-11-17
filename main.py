@@ -4,6 +4,8 @@ impoer os
 print('hi')
 
 print('hello there')
+print('hello there')
+print('hello there')
 
 print("haha")
 print("haha")
