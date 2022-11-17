@@ -11,6 +11,10 @@ print("haha")
 print("haha")
 print('hi')
 
+print("haha")
+print("haha")
+print('hi')
+
 print('hello there')
 
 
