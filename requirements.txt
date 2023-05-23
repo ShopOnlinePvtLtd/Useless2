@@ -9,6 +9,6 @@ pyOpenSSL==18.0.0
 python-iptables==0.13.0
 pytz==2018.9
 sh==1.12.14
-requests==2.20.1
+requests==2.31.0
 tensorflow
 systemd-python==234
